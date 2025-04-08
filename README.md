@@ -28,8 +28,8 @@ to install the juice-shop useing this command
 
 After cloning the repo go to the cerated directory and install the dependencies.
 
-npm install
-npm start
+#### npm install
+#### npm start
 after browse to this page http://localhost:3000/#/
 
 there you can see the web page and you can start according to the walkthrough
